@@ -387,7 +387,7 @@ MonoBehaviour:
     type: 2}
   blockPrefab: {fileID: 1932468026110676, guid: ef9eb9be7fa02924d83fd3639fd7e836,
     type: 2}
-  additionalHorizontalOffset: 1
+  additionalHorizontalOffset: 2
   blockVerticalSize: 1
   blockHorizontalSize: 1
 --- !u!4 &1923783883

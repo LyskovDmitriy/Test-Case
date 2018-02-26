@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Score.unity
+    guid: 21bafe25bc8f98c459d5d9537bd69db4
+  - enabled: 0
     path: Assets/Blocks.unity
     guid: c965834702a5a2f4997f8dd8017eab83
